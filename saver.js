@@ -47,7 +47,7 @@ else if (ttype == "shorts") {
 fetch('###Add your google appscript webapp url here, (for eg. https://script.google.com/macros/s/something_something_and_identifiers_for_the_api_endpoint/exec)###', 
 { 
     redirect: "follow", method: "POST", body: JSON.stringify({ "videoid": tex_id, "video_title": video_title }), headers: { "Content-Type": "text/plain;charset=utf-8", }, 
-});
+})
 .then((response) => response.json())
 .then((data) => displayer(data, video_title));
 
