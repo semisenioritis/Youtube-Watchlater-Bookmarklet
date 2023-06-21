@@ -1,4 +1,3 @@
-// To use this code as a bookmarklet, remove all line breaks and comments in the code and add the comment bellow to the start of the code. After this all code along with the below comment should be on a single line. Also dont forget to replace the dummy google appscript endpoint with your own endpoint.
 // javascript:
 var a = window.location.href; 
 
