@@ -29,9 +29,9 @@ function displayer(data, video_title) {
     setTimeout(function () { w.close(); }, 4000); 
 } 
 
-processor=youtube_parser(a)
-const tex_id=String(processor[0])
-const ttype=String(processor[1])
+processor=youtube_parser(a);
+const tex_id=String(processor[0]);
+const ttype=String(processor[1]);
  
 console.log(tex_id);
 
