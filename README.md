@@ -1,5 +1,5 @@
 # Youtube-Watchlater-Bookmarklet
-This is a js snippet that is to be used as a bookmarklet to save youtube videos to my watchlater and go through them later at my leisure
+This is a js snippet that is to be used as a pair of bookmarklets to save youtube videos to my watchlater and go through them later at my leisure
 
 One of my main issues with youtube's watch later system is that even though it's easy to add videos to your watchlater playlist, it's quite difficult and unnatural to get back to them when you need them. This just leaves me with 50-odd different tabs that all have interesting videos I want to watch but just don't have the time to do right now.
 
