@@ -1,4 +1,3 @@
-// javascript:
 var a = window.location.href; 
 
 function youtube_parser(url) { 
