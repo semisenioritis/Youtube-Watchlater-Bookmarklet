@@ -11,7 +11,7 @@ function doPost(event) {
 }
 
 function myFunction(videoid, video_title) {
-  const spreadsheetId = "1lX1Vle73TOxS1HtjjkwDWvm_oEhkat9ti4pLB0ql_HQ"
+  const spreadsheetId = "the_id_of_your_gsheet_spreadsheet"
   const range = "Sheet1!A1:D1"
   const valueInputOption = "USER_ENTERED"
   // const videoid = videoid
